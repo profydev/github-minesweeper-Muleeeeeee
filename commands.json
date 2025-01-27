@@ -34,6 +34,13 @@
     "Clear C2",
 
     "Clear C1",
-    "Clear D1"
+    "Clear D1",
+
+    "Flag D3",
+    "Clear E3",
+    "Clear F3",
+    "Flag G3",
+    "Clear H3"
+
   ]
 }
