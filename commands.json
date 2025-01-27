@@ -1,9 +1,5 @@
 {
   "commands": [
-<<<<<<< HEAD
-    "Clear A1"
-    "Clear A8"
-=======
     "Clear A1",
     "Clear A8",
 
@@ -20,6 +16,5 @@
     "Clear E6",
     "Flag E7",
     "Flag E8"
->>>>>>> 1fcfa207b620f22a673dc25348f1bdc92e9b08ac
   ]
 }
