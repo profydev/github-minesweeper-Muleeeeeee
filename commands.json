@@ -40,7 +40,9 @@
     "Clear E3",
     "Clear F3",
     "Flag G3",
-    "Clear H3"
+    "Clear H3",
 
+    // Flag bomb Zerooo!!
+    "Flag H2"
   ]
 }
